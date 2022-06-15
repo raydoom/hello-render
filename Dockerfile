@@ -1,3 +1,3 @@
-FROM raydoom/v2ray-ws-docker:latest
+FROM httpd
 EXPOSE 80
 EXPOSE 443

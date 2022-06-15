@@ -10,6 +10,8 @@ services:
     envVars:
       - key: PORT
         value: 80
+      - key: UUID
+        value: 37be22eb-806b-4fb2-8497-b1737b4ace1a
       - key: DB_TYPE
         # value: sqlite3
         sync: false
